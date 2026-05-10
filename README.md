@@ -17,7 +17,7 @@ An Excel-based analysis of Microsoft (MSFT) stock data — exploring price trend
 
 | File | Description |
 |------|-------------|
-| `EXCEL_project_1.xlsx` | Main analysis file with data and charts |
+| `EXCEL_project.xlsx` | Main analysis file with data and charts |
 
 ## Key findings
 
